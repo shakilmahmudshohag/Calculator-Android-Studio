@@ -1,0 +1,1 @@
+Mini pervasive computer project
